@@ -1,0 +1,76 @@
+{
+  "advisors": [
+    {
+      "name": "Prof. Dr. Mohamed Kamal",
+      "role": "General Advisor",
+      "image": ""
+    },
+    {
+      "name": "Eng. Noha Asker",
+      "role": "Honorary Co. Advisor",
+      "image": ""
+    },
+    {
+      "name": "Eng. Kareem Elmslmany",
+      "role": "Co. Advisor",
+      "image": ""
+    },
+    {
+      "name": "Eng. Mona Azmy",
+      "role": "Co. Advisor",
+      "image": ""
+    },
+    {
+      "name": "Eng. Hadeer Ahmed",
+      "role": "Co. Advisor",
+      "image": ""
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Anas Elshery",
+      "role": "Team Leader",
+      "image": ""
+    },
+    {
+      "name": "Mohamed Mansour",
+      "role": "Vice Head",
+      "image": ""
+    },
+    {
+      "name": "Mokhtar Mohamed",
+      "role": "Vice Head",
+      "image": ""
+    },
+    {
+      "name": "Mohamed Amir",
+      "role": "Vice Head",
+      "image": ""
+    },
+    {
+      "name": "Ammar Wael",
+      "role": "HR Head",
+      "image": ""
+    },
+    {
+      "name": "Ziad Shiref",
+      "role": "Media Head",
+      "image": ""
+    },
+    {
+      "name": "Mohamed Elawady",
+      "role": "PR Head",
+      "image": ""
+    },
+    {
+      "name": "Noor Mohamed",
+      "role": "Implementation Head",
+      "image": ""
+    },
+    {
+      "name": "Dina Shoukat",
+      "role": "Planning Head",
+      "image": ""
+    }
+  ]
+}
